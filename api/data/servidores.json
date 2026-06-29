@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "nome": "Alpha PvP Brasil",
+        "jogo": "Minecraft",
+        "regiao": "Brasil",
+        "status": "online",
+        "jogadores_online": 82,
+        "capacidade": 100,
+        "modo": "PvP",
+        "versao": "1.7.10",
+        "ping_ms": 28
+    },
+    {
+        "id": 2,
+        "nome": "The walking craft",
+        "jogo": "Minecraft",
+        "regiao": "Brasil",
+        "status": "online",
+        "jogadores_online": 54,
+        "capacidade": 80,
+        "modo": "Survival",
+        "versao": "1.20.1",
+        "ping_ms": 35
+    },
+    {
+        "id": 3,
+        "nome": "Arena CS Rio",
+        "jogo": "Counter-Strike 2",
+        "regiao": "Brasil",
+        "status": "online",
+        "jogadores_online": 18,
+        "capacidade": 20,
+        "modo": "Competitivo",
+        "versao": "Atual",
+        "ping_ms": 22
+    },
+    {
+        "id": 4,
+        "nome": "Fortnite Modo Criativo",
+        "jogo": "Fortnite",
+        "regiao": "Brasil",
+        "status": "online",
+        "jogadores_online": 9,
+        "capacidade": 30,
+        "modo": "Cooperativo",
+        "versao": "41.10",
+        "ping_ms": 44
+    },
+    {
+        "id": 5,
+        "nome": "ARK Ilha Perdida",
+        "jogo": "ARK: Survival Evolved",
+        "regiao": "América do Sul",
+        "status": "manutencao",
+        "jogadores_online": 0,
+        "capacidade": 70,
+        "modo": "PvE",
+        "versao": "358.17",
+        "ping_ms": 0
+    },
+    {
+        "id": 6,
+        "nome": "Rust Vale dos Sobreviventes",
+        "jogo": "Rust",
+        "regiao": "Brasil",
+        "status": "online",
+        "jogadores_online": 126,
+        "capacidade": 150,
+        "modo": "PvP",
+        "versao": "Atual",
+        "ping_ms": 31
+    },
+    {
+        "id": 7,
+        "nome": "Terraria Boss Rush BR",
+        "jogo": "Terraria",
+        "regiao": "Brasil",
+        "status": "offline",
+        "jogadores_online": 0,
+        "capacidade": 16,
+        "modo": "Boss Rush",
+        "versao": "1.4.4.9",
+        "ping_ms": 0
+    },
+    {
+        "id": 8,
+        "nome": "Rocket League 1v1",
+        "jogo": "Rocket League",
+        "regiao": "Brasil",
+        "status": "online",
+        "jogadores_online": 23,
+        "capacidade": 2,
+        "modo": "PvP",
+        "versao": "Atual",
+        "ping_ms": 39
+    },
+    {
+        "id": 9,
+        "nome": "GTA Online",
+        "jogo": "GTA V",
+        "regiao": "Brasil",
+        "status": "online",
+        "jogadores_online": 201,
+        "capacidade": 250,
+        "modo": "Roleplay",
+        "versao": "Atual",
+        "ping_ms": 26
+    },
+    {
+        "id": 10,
+        "nome": "DayZ Fronteira Sul",
+        "jogo": "DayZ",
+        "regiao": "América do Sul",
+        "status": "online",
+        "jogadores_online": 47,
+        "capacidade": 60,
+        "modo": "Sobrevivencia",
+        "versao": "1.25",
+        "ping_ms": 52
+    }
+]
